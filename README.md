@@ -9,7 +9,7 @@ MSc Software Systems Student • Software Developer • Python & ML Enthusiast
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akilesh-anand-37444a320">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/akilesh-a-37444a320">LinkedIn</a> •
   <a href="mailto:akileshanand302006@gmail.com">Email</a>
 </p>
 
@@ -113,26 +113,20 @@ Interactive trip-planning application using:
 `System Design`
 
 ---
+## 🛠️ Tech Stack
 
-# 🛠️ Tech Stack
+### 💻 Languages
+![Languages](https://skillicons.dev/icons?i=python,java,cpp,c,js)
 
-**Languages:**  
-`Python` `Java` `C` `C++` `JavaScript` `TypeScript` `SQL` `8086 Assembly`
+### 🌐 Web Development
+![Web](https://skillicons.dev/icons?i=react,nodejs,angular,html,css,tailwind)
 
-**Frontend:**  
-`React` `Angular` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS`
+### 🗄️ Databases
+![DB](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)
 
-**Backend:**  
-`Node.js` `PHP` `Java`
+### ⚙️ Tools & Platforms
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
 
-**Data & ML:**  
-`NumPy` `Pandas` `Scikit-learn` `OpenCV` `PIL`
-
-**Databases:**  
-`MySQL` `MongoDB` `SQLite` `Oracle`
-
-**Tools:**  
-`Git` `GitHub` `VS Code` `Postman`
 
 **Systems:**  
 `Socket Programming` `Client-Server Architecture` `Concurrent Servers`  
