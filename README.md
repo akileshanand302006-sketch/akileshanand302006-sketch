@@ -9,7 +9,7 @@ MSc Software Systems Student • Software Developer • Python & ML Enthusiast
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/akilesh-anand-37444a320">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/akilesh-anand-37444a320">LinkedIn</a> •
   <a href="mailto:akileshanand302006@gmail.com">Email</a>
 </p>
 
