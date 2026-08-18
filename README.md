@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akilesh A</h1>
 
 <h3 align="center">
-MSc Software Systems Student • Software Developer • Python & ML Enthusiast
+MSc Software Systems Student • Software Developer • Python & Full Stack Enthusiast
 </h3>
 
 <p align="center">
