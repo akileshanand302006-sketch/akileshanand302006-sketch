@@ -6,11 +6,13 @@
 
 <p align="center">
   I build practical software that connects <strong>applications, data, systems, and real-world problems.</strong>
-</p>
-
 <p align="center">
   <a href="https://akileshanand302006-sketch.github.io/Akilesh-A-Software-Systems-Portfolio/">
-    <img src="https://img.shields.io/badge/✨%20VIEW%20MY%20PORTFOLIO-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827" alt="View Portfolio"/>
+    <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-2563EB?style=for-the-badge&labelColor=0F172A" alt="Explore Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/akileshanand302006-sketch">
+    <img src="https://img.shields.io/badge/💻%20VIEW%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub"/>
   </a>
 </p>
 
@@ -23,11 +25,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://github.com/akileshanand302006-sketch">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-  </a>
-</p>
-
+  
 ## 🧑‍💻 About Me
 
 🎓 **MSc Software Systems Student** at **Coimbatore Institute of Technology**
