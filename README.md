@@ -1,146 +1,372 @@
-<h1 align="center">Hi 👋, I'm Akilesh A</h1>
-
-<h3 align="center">
-MSc Software Systems Student • Software Developer • Python & Full Stack Enthusiast
-</h3>
+# 👋 Hi, I'm Akilesh A
 
 <p align="center">
-  Building software that connects systems, data, and real-world problems.
+  <strong>MSc Software Systems Student • Developer • Problem Solver • Continuous Learner</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akilesh-a-37444a320">LinkedIn</a> •
-  <a href="mailto:akileshanand302006@gmail.com">Email</a>
+  I build practical software that connects <strong>applications, data, systems, and real-world problems.</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akilesh-a-37444a320">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:akileshanand302006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-🎓 MSc Software Systems student at **Coimbatore Institute of Technology**
+🎓 **MSc Software Systems Student** at **Coimbatore Institute of Technology**
 
-💻 Interested in **Software Engineering, Machine Learning, Full-Stack Development & Systems Programming**
+💻 Passionate about building **software applications, full-stack systems, data-driven solutions, and intelligent applications**
 
-🐍 Experienced with **Python, C, C++, Java, JavaScript & 8086 Assembly**
+🧠 Interested in **Software Development, Machine Learning, Data Science, Computer Vision & Systems Programming**
 
-🧠 Exploring **Machine Learning, Computer Vision, Data Science & AI-powered applications**
+⚡ Comfortable working across the stack — from **frontend interfaces and REST APIs to databases and low-level system logic**
 
-🌐 Building applications with **React, Angular, Node.js, PHP, HTML & CSS**
+🔧 I enjoy understanding how things work internally, experimenting with new technologies, debugging problems, and turning ideas into working products.
 
-🗄️ Working with **MySQL, MongoDB, SQLite & Oracle**
+🚀 Currently focused on strengthening my skills for **Software Development, Full-Stack, Data & ML opportunities**
 
-⚙️ Tools: **Git, GitHub, VS Code, Postman, Linux & Windows**
-
-🚀 Currently preparing for **Software Development / ML / Full-Stack Developer internships**
+> **Learn → Build → Break → Debug → Improve → Ship**
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏦 Smart Finance Management & Investment Advisor System
+### 🏥 Smart Hospital Bed Management System
 
-**Java • JavaFX • CSS • MySQL • Java Collections • Rule-Based AI**
+**8086 Assembly • PHP • JavaScript • HTML • CSS • MySQL**
 
-A desktop personal finance platform for **expense tracking, financial planning, spending analysis and investment guidance**.
+A resource-management system designed to optimize hospital bed allocation using **8086 Assembly as the core allocation engine**.
 
-**Features:**
-- 💰 Income & expense tracking
-- 📊 Financial analytics & reports
-- 🎯 Financial goals & progress tracking
-- 💹 SIP calculator & investment planning
-- 🤖 Rule-based financial suggestions
-- ⚠️ Overspending & balance alerts
-- 🔐 Admin & Common User authentication
-- 🗄️ MySQL database integration
+**Highlights**
 
-**Technologies:**  
-`Java` `JavaFX` `CSS` `MySQL` `ArrayList` `HashMap` `LinkedList` `TreeMap` `PieChart` `LineChart`
+* 🛏️ Priority-based patient admission
+* 🚨 Critical / Serious / Normal patient classification
+* 🏥 ICU, Private, Semi-Private & General ward allocation
+* 🫁 Oxygen and doctor resource management
+* ⏳ Dynamic patient waiting-list management
+* 🔄 Admission and discharge workflows
+* 🧮 MEWS-based patient assessment
+* 🔗 PHP ↔ 8086 Assembly file-based communication
+* 🗄️ Database-backed patient and resource management
 
----
+**Architecture**
 
-## 🏥 Smart Hospital Bed Management System
-
-**8086 Assembly • PHP • JavaScript • HTML/CSS • MySQL**
-
-Hospital resource-management system where **8086 Assembly acts as the core allocation engine**.
-
-**Features:**
-- 🛏️ Priority-based bed allocation
-- 🚨 Critical / Serious / Normal prioritization
-- 🏥 ICU, Private, Semi-Private & General wards
-- 🫁 Oxygen & doctor resource management
-- ⏳ Patient waiting-list management
-- 🔄 Admission & discharge workflow
-- 🧮 JavaScript-based MEWS calculation
-- 🔗 PHP ↔ Assembly file-based communication
+```text
+Web Interface
+      ↓
+HTML / CSS / JavaScript
+      ↓
+PHP Middleware
+      ↓
+Bridge File
+      ↓
+8086 Assembly Engine
+      ↓
+Resource Allocation
+```
 
 ---
 
-## 🤖 Machine Learning Experiments
+### 💰 Smart Finance Management & Investment Advisor
+
+**Java • JavaFX • MySQL • CSS • Java Collections**
+
+A desktop financial management application designed to help users understand their **income, expenses, financial goals and investment planning**.
+
+**Highlights**
+
+* 💵 Income & expense management
+* 📊 Financial analytics and visual reports
+* 🎯 Financial goals and progress tracking
+* 💹 SIP calculator and investment planning
+* 🤖 Rule-based financial recommendations
+* ⚠️ Spending and balance alerts
+* 🔐 Authentication and user management
+* 🗄️ MySQL database integration
+* 📈 Interactive charts and financial visualization
+
+**Data Structures Used**
+
+```text
+ArrayList   → Transaction Management
+HashMap     → Fast Data Lookup
+LinkedList  → Sequential Data Handling
+TreeMap     → Ordered Financial Data
+```
+
+---
+
+### 🏕️ TripForge — Smart Adventure Trip Builder
+
+**Angular • TypeScript • Bootstrap • HTML • CSS**
+
+A responsive trip-planning application designed to simplify **adventure-trip discovery and planning**.
+
+**Implemented Concepts**
+
+* Angular Components
+* Data Binding
+* Property Binding
+* Event Binding
+* Interpolation
+* Directives
+* Routing
+* Template-driven Forms
+* Form Validation
+* Responsive UI
+* Reusable Components
+
+---
+
+### 🤖 Machine Learning & Data Experiments
 
 **Python • NumPy • Pandas • Scikit-learn • OpenCV**
 
-Hands-on work with:
+Hands-on exploration of machine learning and data-processing workflows.
 
-`Data Preprocessing` `SMOTE` `Logistic Regression`  
-`Decision Trees` `Linear Regression` `Model Evaluation`  
-`Data Visualization` `Computer Vision`
-
----
-
-## 🏕️ TripForge — Smart Adventure Trip Builder
-
-**Angular • TypeScript • Bootstrap • HTML/CSS**
-
-Interactive trip-planning application using:
-
-`Angular Components` `Data Binding` `Event Binding`  
-`Property Binding` `Interpolation` `Directives`  
-`Routing` `Template-driven Forms` `Validation` `Responsive UI`
-
----
-
-# 🧠 Core Computer Science
-
-`Data Structures & Algorithms`  
-`Object-Oriented Programming`  
-`Database Management Systems`  
-`Operating Systems`  
-`Computer Networks`  
-`Web Technologies`  
-`Machine Learning`  
-`Software Engineering`  
-`System Design`
-
----
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Languages](https://skillicons.dev/icons?i=python,java,cpp,c,js)
-
-### 🌐 Web Development
-![Web](https://skillicons.dev/icons?i=react,nodejs,angular,html,css,tailwind)
-
-### 🗄️ Databases
-![DB](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)
-
-### ⚙️ Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)
-
-
-**Systems:**  
-`Socket Programming` `Client-Server Architecture` `Concurrent Servers`  
-`CPU Scheduling` `Memory Management` `File Handling`
-
----
-
-# 📈 Development Philosophy
-
-> **Don't just learn a technology. Build something with it.**
+**Areas**
 
 ```text
-Learn → Understand → Experiment → Build
-                    ↓
-              Break → Debug
-                    ↓
-                Improve → Ship
+Data Cleaning
+Data Preprocessing
+Exploratory Data Analysis
+Data Visualization
+Feature Engineering
+SMOTE
+Logistic Regression
+Linear Regression
+Decision Trees
+Model Evaluation
+Computer Vision
+OpenCV
+```
+
+---
+
+# 🧠 Computer Science Foundation
+
+I enjoy working across both **high-level application development and low-level computing concepts**.
+
+| Area               | Focus                                           |
+| ------------------ | ----------------------------------------------- |
+| 💻 Programming     | C, C++, Java, Python, JavaScript                |
+| 🌐 Web Development | React, Angular, Node.js, PHP                    |
+| 🗄️ Databases      | MySQL, MongoDB, SQLite, Oracle                  |
+| 🧠 AI / ML         | Machine Learning, Data Science, Computer Vision |
+| ⚙️ Systems         | 8086 Assembly, OS concepts, File Handling       |
+| 📚 CS Fundamentals | DSA, OOP, DBMS, OS, Networks                    |
+| 🔌 Networking      | Socket Programming, Client-Server Architecture  |
+| 🏗️ Engineering    | Software Engineering, APIs, System Design       |
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,php"/>
+</p>
+
+### 🌐 Frontend & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,html,css,bootstrap"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+</p>
+
+### 🔧 Tools & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
+</p>
+
+### 📊 Data & ML
+
+```text
+Python
+NumPy
+Pandas
+Scikit-learn
+OpenCV
+Matplotlib
+```
+
+---
+
+# ⚙️ What I Like Building
+
+```text
+┌──────────────────────────────────────────────┐
+│              SOFTWARE DEVELOPMENT            │
+├──────────────────────────────────────────────┤
+│                                              │
+│  🌐 Full-Stack Applications                  │
+│  📊 Data-Driven Applications                 │
+│  🤖 Machine Learning Solutions               │
+│  🧠 Intelligent Automation                   │
+│  🗄️ Database-Driven Systems                  │
+│  ⚙️ System-Level Applications                │
+│  📱 Responsive & User-Friendly Interfaces    │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+# 🔬 Systems & Core Concepts
+
+### Data Structures & Algorithms
+
+`Arrays` `Linked Lists` `Stacks` `Queues` `Circular Queues` `Trees` `Hashing` `Sorting` `Searching`
+
+### Operating Systems
+
+`CPU Scheduling` `Memory Management` `Virtual Memory` `Page Replacement` `File Systems`
+
+### Databases
+
+`SQL` `PL/SQL` `Normalization` `Transactions` `Triggers` `Indexes` `Joins` `Subqueries` `B+ Trees`
+
+### Networking
+
+`Socket Programming` `Client-Server Architecture` `Concurrent Servers` `Network Communication`
+
+### Systems Programming
+
+`8086 Assembly` `EMU8086` `File Handling` `Interrupts` `Low-Level Resource Management`
+
+---
+
+# 📈 My Development Approach
+
+```text
+              💡 IDEA
+                │
+                ▼
+          🔍 UNDERSTAND
+                │
+                ▼
+           🧠 LEARN
+                │
+                ▼
+          🛠️ EXPERIMENT
+                │
+                ▼
+            💻 BUILD
+                │
+                ▼
+          🐛 DEBUG
+                │
+                ▼
+          ⚡ OPTIMIZE
+                │
+                ▼
+            🚀 SHIP
+```
+
+> **I don't just learn technologies — I build with them.**
+
+---
+
+# 🌱 Currently Learning
+
+```text
+▸ Advanced React & Modern Frontend Development
+▸ Full-Stack Application Architecture
+▸ Machine Learning & Data Science
+▸ Computer Vision
+▸ REST API Development
+▸ Database Design & Optimization
+▸ System Design
+▸ Clean & Maintainable Software Architecture
+```
+
+---
+
+# 🎯 What I'm Working Toward
+
+I'm continuously improving my ability to design and develop software that is:
+
+**Scalable • Maintainable • Efficient • User-Centered • Data-Driven**
+
+My goal is to become a developer who can move comfortably between:
+
+```text
+UI
+ ↓
+Frontend
+ ↓
+Backend
+ ↓
+APIs
+ ↓
+Database
+ ↓
+Data / ML
+ ↓
+System Logic
+```
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+# 🧩 Beyond Code
+
+```text
+Always Learning     │
+Passionate Developer │
+Problem Solver       │
+Team Player          │
+Focused & Driven     │
+```
+
+I believe good software development is not only about writing code.
+
+It is about **understanding the problem, thinking clearly, collaborating effectively, and continuously improving the solution.**
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akilesh-a-37444a320">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:akileshanand302006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Thanks for visiting my profile! ⭐</strong>
+</p>
+
+<p align="center">
+  <i>Building. Learning. Solving. Improving.</i>
+</p>
