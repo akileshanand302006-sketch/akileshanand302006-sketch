@@ -130,7 +130,46 @@ Resource Allocation
 ```
 
 ---
+✨ QuoteVerse — A Universe of Inspiration
 
+React • Vite • Bootstrap • JavaScript • Axios • MySQL
+
+A creative, interactive Single Page Application that transforms quote discovery into an immersive and personalized experience through modern UI, smart discovery features, and persistent user interactions.
+
+Highlights
+
+✨ Thought of the Moment
+🎲 Smart Random Quote Generator
+🔍 Multi-attribute quote search
+🏷️ Category-based filtering
+🎭 Mood-based quote discovery
+❤️ Favorite quotes with persistence
+📖 Quote Journey & viewing history
+☀️ Quote of the Day
+🌌 Immersive Inspiration Mode
+📊 Live analytics and statistics
+⏰ Real-time date and clock
+☀️ Day / 🌙 Night theme system
+⌨️ Keyboard shortcuts
+📋 Copy & share functionality
+🔊 Read Aloud
+🤖 Smart Recommendations
+🎯 Quote Challenge & interactive quote experiences
+🖼️ Glassmorphism, animations and responsive premium UI
+🔐 Login, registration and form validation
+🗄️ Database-backed quote and user data management
+
+Architecture
+
+React Frontend
+      ↓
+Axios API Layer
+      ↓
+Backend Services
+      ↓
+Database
+      ↓
+Quotes / Users / Favorites / History / Preferences
 
 ### 🤖 Machine Learning & Data Experiments
 
