@@ -45,7 +45,7 @@
 # 🚀 Featured Projects
 
 
-### 💰 FinvisIQ-Smart Finance Management & Investment Advisor
+### 💰 FinvisIQ-Personal Finance Intelligence Platform
 
 **Java • JavaFX • MySQL • CSS • Java Collections**
 
