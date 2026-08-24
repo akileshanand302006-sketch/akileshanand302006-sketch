@@ -9,6 +9,12 @@
 </p>
 
 <p align="center">
+  <a href="https://akileshanand302006-sketch.github.io/Akilesh-A-Software-Systems-Portfolio/">
+    <img src="https://img.shields.io/badge/✨%20VIEW%20MY%20PORTFOLIO-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=111827" alt="View Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/akilesh-a-37444a320">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
@@ -21,8 +27,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
 </p>
-
----
 
 ## 🧑‍💻 About Me
 
@@ -269,6 +273,47 @@ Matplotlib
 │                                              │
 └──────────────────────────────────────────────┘
 ```
+
+---
+---
+
+## 🌐 Akilesh A — Software Systems Portfolio
+
+A **premium, cinematic developer portfolio** built to showcase my software development journey, technical skills, projects, achievements, coding profiles, and experience through an interactive modern web experience.
+
+The portfolio combines **React, Three.js, Framer Motion, tsParticles, Bootstrap, Node.js, Express, and MongoDB Atlas** with a refined **Liquid Glass UI**, immersive 3D visuals, smooth animations, responsive layouts, and dynamic light/dark themes.
+
+### ✨ Highlights
+
+- 🎨 Premium Liquid Glass & glassmorphism interface
+- 🌌 Interactive Three.js 3D environment
+- ✨ Dynamic particle effects and animated backgrounds
+- 🌓 Premium light & dark theme system
+- 💻 Interactive project showcase with 3D hover effects
+- ⚡ Animated skills ticker and technical showcase
+- 🧠 Experience, achievements & learning timeline
+- 🔗 GitHub, LinkedIn, LeetCode & coding profile integration
+- 📄 Interactive resume access
+- 📬 Validated contact form with real email delivery
+- ☁️ MongoDB Atlas cloud-backed portfolio data
+- 🖼️ Cloud-based image and resume management
+- 📱 Fully responsive across desktop, tablet & mobile
+- ♿ Accessibility and reduced-motion support
+- 🚀 Deployed publicly using GitHub Pages
+
+### 🛠️ Built With
+
+`React 19` `Vite` `JavaScript` `Bootstrap 5` `Framer Motion` `Three.js` `React Three Fiber` `tsParticles` `Node.js` `Express.js` `MongoDB Atlas` `EmailJS`
+
+<p align="center">
+  <a href="https://akileshanand302006-sketch.github.io/Akilesh-A-Software-Systems-Portfolio/">
+    <img src="https://img.shields.io/badge/🚀%20EXPLORE%20LIVE%20PORTFOLIO-2563EB?style=for-the-badge&labelColor=0F172A" alt="Live Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Explore my work, skills, projects and journey through an interactive developer experience.</i>
+</p>
 
 ---
 
