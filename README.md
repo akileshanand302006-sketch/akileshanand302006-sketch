@@ -10,10 +10,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akilesh-a-37444a320">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:akileshanand302006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" height="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/akileshanand302006-sketch">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" height="32"/>
   </a>
 </p>
 
@@ -356,10 +361,15 @@ It is about **understanding the problem, thinking clearly, collaborating effecti
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akilesh-a-37444a320">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:akileshanand302006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" height="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/akileshanand302006-sketch">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" height="32"/>
   </a>
 </p>
 
