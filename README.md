@@ -10,15 +10,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akilesh-a-37444a320">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:akileshanand302006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/akileshanand302006-sketch">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
 </p>
 
@@ -44,6 +44,57 @@
 
 # 🚀 Featured Projects
 
+
+### 💰 FinvisIQ-Smart Finance Management & Investment Advisor
+
+**Java • JavaFX • MySQL • CSS • Java Collections**
+
+A desktop financial management application designed to help users understand their **income, expenses, financial goals and investment planning**.
+
+**Highlights**
+
+* 💵 Income & expense management
+* 📊 Financial analytics and visual reports
+* 🎯 Financial goals and progress tracking
+* 💹 SIP calculator and investment planning
+* 🤖 Rule-based financial recommendations
+* ⚠️ Spending and balance alerts
+* 🔐 Authentication and user management
+* 🗄️ MySQL database integration
+* 📈 Interactive charts and financial visualization
+
+**Data Structures Used**
+
+```text
+ArrayList   → Transaction Management
+HashMap     → Fast Data Lookup
+LinkedList  → Sequential Data Handling
+TreeMap     → Ordered Financial Data
+```
+
+---
+
+### 🏕️ RouteVeda — Smart Adventure Trip Builder
+
+**Angular • TypeScript • Bootstrap • HTML • CSS**
+
+A responsive trip-planning application designed to simplify **adventure-trip discovery and planning**.
+
+**Implemented Concepts**
+
+* Angular Components
+* Data Binding
+* Property Binding
+* Event Binding
+* Interpolation
+* Directives
+* Routing
+* Template-driven Forms
+* Form Validation
+* Responsive UI
+* Reusable Components
+
+---
 ### 🏥 Smart Hospital Bed Management System
 
 **8086 Assembly • PHP • JavaScript • HTML • CSS • MySQL**
@@ -80,56 +131,6 @@ Resource Allocation
 
 ---
 
-### 💰 Smart Finance Management & Investment Advisor
-
-**Java • JavaFX • MySQL • CSS • Java Collections**
-
-A desktop financial management application designed to help users understand their **income, expenses, financial goals and investment planning**.
-
-**Highlights**
-
-* 💵 Income & expense management
-* 📊 Financial analytics and visual reports
-* 🎯 Financial goals and progress tracking
-* 💹 SIP calculator and investment planning
-* 🤖 Rule-based financial recommendations
-* ⚠️ Spending and balance alerts
-* 🔐 Authentication and user management
-* 🗄️ MySQL database integration
-* 📈 Interactive charts and financial visualization
-
-**Data Structures Used**
-
-```text
-ArrayList   → Transaction Management
-HashMap     → Fast Data Lookup
-LinkedList  → Sequential Data Handling
-TreeMap     → Ordered Financial Data
-```
-
----
-
-### 🏕️ TripForge — Smart Adventure Trip Builder
-
-**Angular • TypeScript • Bootstrap • HTML • CSS**
-
-A responsive trip-planning application designed to simplify **adventure-trip discovery and planning**.
-
-**Implemented Concepts**
-
-* Angular Components
-* Data Binding
-* Property Binding
-* Event Binding
-* Interpolation
-* Directives
-* Routing
-* Template-driven Forms
-* Form Validation
-* Responsive UI
-* Reusable Components
-
----
 
 ### 🤖 Machine Learning & Data Experiments
 
@@ -361,15 +362,15 @@ It is about **understanding the problem, thinking clearly, collaborating effecti
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akilesh-a-37444a320">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:akileshanand302006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/akileshanand302006-sketch">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" height="32"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
 </p>
 
