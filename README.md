@@ -76,7 +76,7 @@ TreeMap     → Ordered Financial Data
 
 ---
 
-### 🏕️ ketch/RouteVeda-Intelligent-Travel-Discovery-Adventure-Planner
+### RouteVeda-Intelligent-Travel-Discovery-Adventure-Planner
 
 **Angular • TypeScript • Bootstrap • HTML • CSS**
 
