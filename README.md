@@ -6,6 +6,8 @@
 
 <p align="center">
   I build practical software that connects <strong>applications, data, systems, and real-world problems.</strong>
+</p>
+
 <p align="center">
   <a href="https://akilesha-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-2563EB?style=for-the-badge&labelColor=0F172A" alt="Explore Portfolio"/>
@@ -24,8 +26,10 @@
   <a href="mailto:akileshanand302006@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
-  &nbsp;
-  
+</p>
+
+---
+
 ## 🧑‍💻 About Me
 
 🎓 **MSc Software Systems Student** at **Coimbatore Institute of Technology**
@@ -44,16 +48,15 @@
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
-
-### 💰 FinvisIQ-Personal Finance Intelligence Platform
+## 💰 FinvisIQ — Personal Finance Intelligence Platform
 
 **Java • JavaFX • MySQL • CSS • Java Collections**
 
 A desktop financial management application designed to help users understand their **income, expenses, financial goals and investment planning**.
 
-**Highlights**
+### ✨ Highlights
 
 * 💵 Income & expense management
 * 📊 Financial analytics and visual reports
@@ -65,7 +68,7 @@ A desktop financial management application designed to help users understand the
 * 🗄️ MySQL database integration
 * 📈 Interactive charts and financial visualization
 
-**Data Structures Used**
+### 🧠 Data Structures Used
 
 ```text
 ArrayList   → Transaction Management
@@ -76,13 +79,13 @@ TreeMap     → Ordered Financial Data
 
 ---
 
-### RouteVeda-Intelligent-Travel-Discovery-Adventure-Planner
+## 🧭 RouteVeda — Intelligent Travel Discovery & Adventure Planner
 
 **Angular • TypeScript • Bootstrap • HTML • CSS**
 
-A responsive trip-planning application designed to simplify **adventure-trip discovery and planning**.
+A responsive trip-planning application designed to simplify **adventure-trip discovery and planning** through a structured Angular application.
 
-**Implemented Concepts**
+### ✨ Implemented Concepts
 
 * Angular Components
 * Data Binding
@@ -96,14 +99,82 @@ A responsive trip-planning application designed to simplify **adventure-trip dis
 * Responsive UI
 * Reusable Components
 
----
-### 🏥 Smart Hospital Bed Management System
+### 🏗️ Application Flow
 
-**8086 Assembly • PHP • JavaScript • HTML • CSS • MySQL**
+```text
+User
+ ↓
+Destination Discovery
+ ↓
+Travel Information
+ ↓
+Trip Planning
+ ↓
+Adventure Plan
+```
+
+---
+
+## 🗺️ TripForge — Smart Adventure Trip Builder
+
+**Angular • TypeScript • Bootstrap • PostgreSQL • PostGIS • REST APIs**
+
+An advanced evolution of the travel-planning concept focused on **destination discovery, geospatial travel data, adventure planning, and interactive trip building**.
+
+TripForge is designed around a modern Angular architecture while using PostgreSQL/PostGIS for structured and location-aware travel data.
+
+### ✨ Highlights
+
+* 🗺️ Adventure destination discovery
+* 🧭 Smart trip planning
+* 📍 Geospatial travel information
+* 🏕️ Adventure-focused destination exploration
+* 🖼️ Wikimedia Commons image integration
+* 📌 Location-aware destination data
+* 🗄️ PostgreSQL database architecture
+* 🌍 PostGIS geospatial capabilities
+* 🔄 Reusable Angular components
+* 📱 Responsive interface
+* ✨ Liquid Glass UI
+* 🎨 Interactive animations and modern visual design
+
+### 🌐 API Integration
+
+```text
+Wikimedia Commons API
+        ↓
+Destination Images
+
+Google Places API
+        ↓
+Place Metadata
+```
+
+### 🏗️ Architecture
+
+```text
+Angular Frontend
+       ↓
+Angular Services
+       ↓
+REST / API Layer
+       ↓
+PostgreSQL
+       ↓
+PostGIS
+       ↓
+Geospatial Travel Data
+```
+
+---
+
+## 🏥 Smart Hospital Bed Management System
+
+**8086 Assembly • EMU8086 • PHP • JavaScript • HTML • CSS • MySQL**
 
 A resource-management system designed to optimize hospital bed allocation using **8086 Assembly as the core allocation engine**.
 
-**Highlights**
+### ✨ Highlights
 
 * 🛏️ Priority-based patient admission
 * 🚨 Critical / Serious / Normal patient classification
@@ -115,7 +186,7 @@ A resource-management system designed to optimize hospital bed allocation using 
 * 🔗 PHP ↔ 8086 Assembly file-based communication
 * 🗄️ Database-backed patient and resource management
 
-**Architecture**
+### 🏗️ Architecture
 
 ```text
 Web Interface
@@ -128,41 +199,67 @@ Bridge File
       ↓
 8086 Assembly Engine
       ↓
+Priority-Based Processing
+      ↓
 Resource Allocation
 ```
 
----
-✨ QuoteVerse — A Universe of Inspiration
+### 🧠 Processing Flow
 
-React • Vite • Bootstrap • JavaScript • Axios • MySQL
+```text
+Patient Registration
+        ↓
+MEWS Assessment
+        ↓
+Priority Classification
+        ↓
+Bed Availability Check
+        ↓
+Ward / ICU Selection
+        ↓
+Resource Verification
+        ↓
+Admission / Waiting List
+        ↓
+Discharge
+        ↓
+Resource Release
+```
+
+---
+
+## ✨ QuoteVerse — A Universe of Inspiration
+
+**React • Vite • Bootstrap • JavaScript • Axios • MySQL**
 
 A creative, interactive Single Page Application that transforms quote discovery into an immersive and personalized experience through modern UI, smart discovery features, and persistent user interactions.
 
-Highlights
+### ✨ Highlights
 
-✨ Thought of the Moment
-🎲 Smart Random Quote Generator
-🔍 Multi-attribute quote search
-🏷️ Category-based filtering
-🎭 Mood-based quote discovery
-❤️ Favorite quotes with persistence
-📖 Quote Journey & viewing history
-☀️ Quote of the Day
-🌌 Immersive Inspiration Mode
-📊 Live analytics and statistics
-⏰ Real-time date and clock
-☀️ Day / 🌙 Night theme system
-⌨️ Keyboard shortcuts
-📋 Copy & share functionality
-🔊 Read Aloud
-🤖 Smart Recommendations
-🎯 Quote Challenge & interactive quote experiences
-🖼️ Glassmorphism, animations and responsive premium UI
-🔐 Login, registration and form validation
-🗄️ Database-backed quote and user data management
+* ✨ Thought of the Moment
+* 🎲 Smart Random Quote Generator
+* 🔍 Multi-attribute quote search
+* 🏷️ Category-based filtering
+* 🎭 Mood-based quote discovery
+* ❤️ Favorite quotes with persistence
+* 📖 Quote Journey & viewing history
+* ☀️ Quote of the Day
+* 🌌 Immersive Inspiration Mode
+* 📊 Live analytics and statistics
+* ⏰ Real-time date and clock
+* ☀️ Day / 🌙 Night theme system
+* ⌨️ Keyboard shortcuts
+* 📋 Copy & share functionality
+* 🔊 Read Aloud
+* 🤖 Smart Recommendations
+* 🎯 Quote Challenge & interactive quote experiences
+* 🖼️ Glassmorphism, animations and responsive premium UI
+* 🔐 Login, registration and form validation
+* 🗄️ Database-backed quote and user data management
 
-Architecture
+### 🏗️ Architecture
 
+```text
 React Frontend
       ↓
 Axios API Layer
@@ -172,14 +269,210 @@ Backend Services
 Database
       ↓
 Quotes / Users / Favorites / History / Preferences
+```
 
-### 🤖 Machine Learning & Data Experiments
+---
 
-**Python • NumPy • Pandas • Scikit-learn • OpenCV**
+## 🤖 CertiNexus AI — Student Digital Portfolio & Certificate Intelligence Platform
 
-Hands-on exploration of machine learning and data-processing workflows.
+**React • TypeScript • Python • FastAPI • PostgreSQL • OCR • NLP • Machine Learning • Flutter**
 
-**Areas**
+An intelligent student platform designed to transform academic certificates and achievements into **structured, searchable, and reusable digital information**.
+
+The system combines document intelligence, machine learning, certificate processing, portfolio generation, and full-stack application development.
+
+### ✨ Highlights
+
+* 📜 Certificate management
+* 🤖 AI-assisted certificate intelligence
+* 👁️ OCR-powered certificate processing
+* 🔍 Information extraction
+* 🧠 NLP-based document understanding
+* 🗂️ Structured achievement management
+* 📊 Student skill and achievement analysis
+* 🔎 Intelligent certificate search
+* 🧑‍💻 Digital portfolio generation
+* 📈 Achievement visualization
+* 🌐 Full-stack web application
+* 📱 Flutter mobile application direction
+* ✨ Modern animated UI
+* 🗄️ PostgreSQL-backed data management
+
+### 🧠 Intelligence Pipeline
+
+```text
+Certificate Upload
+       ↓
+Document Processing
+       ↓
+OCR
+       ↓
+Text Extraction
+       ↓
+NLP / ML Processing
+       ↓
+Structured Certificate Data
+       ↓
+Skill / Achievement Analysis
+       ↓
+Digital Portfolio
+```
+
+### 🏗️ Architecture
+
+```text
+React Frontend
+      ↓
+API Layer
+      ↓
+FastAPI Backend
+      ↓
+Intelligence Layer
+   ↙          ↘
+ OCR        NLP / ML
+   ↘          ↙
+    PostgreSQL
+         ↓
+Student Intelligence
+```
+
+---
+
+## 🚗 VeloPulseAI — Predictive Maintenance & Real-Time Telematics
+
+**Machine Learning • Data Analytics • Real-Time Telematics**
+
+An intelligent vehicle-monitoring concept focused on combining **real-time telematics data and machine learning** to identify vehicle conditions, detect potential maintenance requirements, and support proactive decision-making.
+
+### ✨ Highlights
+
+* 🚗 Real-time vehicle monitoring
+* 📡 Telematics data processing
+* 📊 Vehicle performance analytics
+* 🤖 Predictive maintenance
+* ⚠️ Potential fault detection
+* 📈 Vehicle health insights
+* 🔍 Data-driven maintenance analysis
+* 🧠 Machine learning integration
+* ⏱️ Real-time-oriented processing
+
+### 🧠 Intelligence Pipeline
+
+```text
+Vehicle / Telematics Data
+          ↓
+      Data Processing
+          ↓
+      Feature Extraction
+          ↓
+       ML Model
+          ↓
+   Vehicle Health Analysis
+          ↓
+ Maintenance Prediction
+          ↓
+        Alert
+```
+
+---
+
+## 📌 TrackWise — Smart Internship & Job Application Tracker
+
+**React • JavaScript • MySQL**
+
+A full-stack application designed to help students and job seekers organize their **internship and job applications** in one centralized workspace.
+
+### ✨ Highlights
+
+* 📋 Job application management
+* 🎓 Internship application tracking
+* 🏢 Company management
+* 📊 Application status tracking
+* 📅 Application timeline
+* 🔎 Search and filtering
+* 📈 Application analytics
+* 📝 Application notes
+* 🔄 Recruitment workflow management
+* 🗄️ Database-backed persistence
+
+### 🔄 Application Workflow
+
+```text
+Opportunity Found
+       ↓
+Application Created
+       ↓
+Applied
+       ↓
+Screening
+       ↓
+Interview
+       ↓
+Selection / Rejection
+       ↓
+Application History
+```
+
+---
+
+## 🔄 Token Exchange System
+
+**Web Development • Database Management • Application Logic**
+
+A token-oriented application concept focused on managing **users, tokens, exchanges, validation, and transaction records** through a structured software workflow.
+
+### ✨ Core Concepts
+
+* 🔄 Token exchange workflow
+* 👤 User management
+* 💳 Transaction-oriented processing
+* 📊 Transaction records
+* 🗄️ Persistent data storage
+* 🔐 Application-level validation
+* 📋 Structured transaction management
+
+### 🏗️ System Flow
+
+```text
+User
+ ↓
+Token Request
+ ↓
+Validation
+ ↓
+Exchange Processing
+ ↓
+Transaction Record
+ ↓
+Updated Token State
+```
+
+---
+
+## 💳 Personal Finance Advisor — Java Application
+
+**Java • Object-Oriented Programming • Data Structures**
+
+A Java-based financial application concept focused on helping users work with **personal financial information, spending decisions, and basic financial planning logic**.
+
+### 🧠 Concepts Explored
+
+* Object-Oriented Programming
+* Java Collections
+* User input processing
+* Financial calculations
+* Rule-based decision logic
+* Structured data handling
+
+---
+
+## 🤖 Machine Learning & Data Experiments
+
+**Python • NumPy • Pandas • Scikit-learn • OpenCV • Matplotlib**
+
+Hands-on exploration of machine learning and data-processing workflows through academic experiments, model implementation, data preprocessing, evaluation, and computer vision.
+
+### 🧪 Areas
 
 ```text
 Data Cleaning
@@ -192,8 +485,32 @@ Logistic Regression
 Linear Regression
 Decision Trees
 Model Evaluation
+Artificial Neural Networks
+Perceptron
 Computer Vision
 OpenCV
+```
+
+### 🔬 Typical ML Workflow
+
+```text
+Dataset
+   ↓
+Data Cleaning
+   ↓
+Preprocessing
+   ↓
+Exploratory Data Analysis
+   ↓
+Feature Engineering
+   ↓
+Train / Test Split
+   ↓
+Model Training
+   ↓
+Evaluation
+   ↓
+Comparison
 ```
 
 ---
@@ -220,25 +537,19 @@ I enjoy working across both **high-level application development and low-level c
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,php"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,php"/>
 </p>
 
 ### 🌐 Frontend & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,angular,nodejs,html,css,bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,html,css,bootstrap"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
-</p>
-
-### 🔧 Tools & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres"/>
 </p>
 
 ### 📊 Data & ML
@@ -251,6 +562,12 @@ Scikit-learn
 OpenCV
 Matplotlib
 ```
+
+### 🔧 Tools & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
+</p>
 
 ---
 
@@ -271,47 +588,6 @@ Matplotlib
 │                                              │
 └──────────────────────────────────────────────┘
 ```
-
----
----
-
-## 🌐 Akilesh A — Software Systems Portfolio
-
-A **premium, cinematic developer portfolio** built to showcase my software development journey, technical skills, projects, achievements, coding profiles, and experience through an interactive modern web experience.
-
-The portfolio combines **React, Three.js, Framer Motion, tsParticles, Bootstrap, Node.js, Express, and MongoDB Atlas** with a refined **Liquid Glass UI**, immersive 3D visuals, smooth animations, responsive layouts, and dynamic light/dark themes.
-
-### ✨ Highlights
-
-- 🎨 Premium Liquid Glass & glassmorphism interface
-- 🌌 Interactive Three.js 3D environment
-- ✨ Dynamic particle effects and animated backgrounds
-- 🌓 Premium light & dark theme system
-- 💻 Interactive project showcase with 3D hover effects
-- ⚡ Animated skills ticker and technical showcase
-- 🧠 Experience, achievements & learning timeline
-- 🔗 GitHub, LinkedIn, LeetCode & coding profile integration
-- 📄 Interactive resume access
-- 📬 Validated contact form with real email delivery
-- ☁️ MongoDB Atlas cloud-backed portfolio data
-- 🖼️ Cloud-based image and resume management
-- 📱 Fully responsive across desktop, tablet & mobile
-- ♿ Accessibility and reduced-motion support
-- 🚀 Deployed publicly using GitHub Pages
-
-### 🛠️ Built With
-
-`React 19` `Vite` `JavaScript` `Bootstrap 5` `Framer Motion` `Three.js` `React Three Fiber` `tsParticles` `Node.js` `Express.js` `MongoDB Atlas` `EmailJS`
-
-<p align="center">
-  <a href="https://akileshanand302006-sketch.github.io/Akilesh-A-Software-Systems-Portfolio/">
-    <img src="https://img.shields.io/badge/🚀%20EXPLORE%20LIVE%20PORTFOLIO-2563EB?style=for-the-badge&labelColor=0F172A" alt="Live Portfolio"/>
-  </a>
-</p>
-
-<p align="center">
-  <i>Explore my work, skills, projects and journey through an interactive developer experience.</i>
-</p>
 
 ---
 
@@ -345,25 +621,25 @@ The portfolio combines **React, Three.js, Framer Motion, tsParticles, Bootstrap,
               💡 IDEA
                 │
                 ▼
-          🔍 UNDERSTAND
+           🔍 UNDERSTAND
                 │
                 ▼
-           🧠 LEARN
+            🧠 LEARN
                 │
                 ▼
-          🛠️ EXPERIMENT
+           🛠️ EXPERIMENT
                 │
                 ▼
-            💻 BUILD
+             💻 BUILD
                 │
                 ▼
-          🐛 DEBUG
+           🐛 DEBUG
                 │
                 ▼
-          ⚡ OPTIMIZE
+           ⚡ OPTIMIZE
                 │
                 ▼
-            🚀 SHIP
+             🚀 SHIP
 ```
 
 > **I don't just learn technologies — I build with them.**
@@ -414,12 +690,12 @@ System Logic
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akileshanand302006-sketch&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akileshanand302006-sketch&layout=compact&theme=transparent&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=akileshanand302006-sketch&theme=transparent&hide_border=true" />
 </p>
 
 ---
