@@ -7,7 +7,7 @@
 <p align="center">
   I build practical software that connects <strong>applications, data, systems, and real-world problems.</strong>
 <p align="center">
-  <a href="https://akileshanand302006-sketch.github.io/Akilesh-A-Software-Systems-Portfolio/">
+  <a href="https://akilesha-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/🚀%20EXPLORE%20MY%20PORTFOLIO-2563EB?style=for-the-badge&labelColor=0F172A" alt="Explore Portfolio"/>
   </a>
   &nbsp;
