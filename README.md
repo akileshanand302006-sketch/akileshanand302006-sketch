@@ -376,45 +376,6 @@ Vehicle / Telematics Data
 
 ---
 
-## 📌 TrackWise — Smart Internship & Job Application Tracker
-
-**React • JavaScript • MySQL**
-
-A full-stack application designed to help students and job seekers organize their **internship and job applications** in one centralized workspace.
-
-### ✨ Highlights
-
-* 📋 Job application management
-* 🎓 Internship application tracking
-* 🏢 Company management
-* 📊 Application status tracking
-* 📅 Application timeline
-* 🔎 Search and filtering
-* 📈 Application analytics
-* 📝 Application notes
-* 🔄 Recruitment workflow management
-* 🗄️ Database-backed persistence
-
-### 🔄 Application Workflow
-
-```text
-Opportunity Found
-       ↓
-Application Created
-       ↓
-Applied
-       ↓
-Screening
-       ↓
-Interview
-       ↓
-Selection / Rejection
-       ↓
-Application History
-```
-
----
-
 ## 🔄 Token Exchange System
 
 **Web Development • Database Management • Application Logic**
@@ -449,71 +410,6 @@ Updated Token State
 
 ---
 
-## 💳 Personal Finance Advisor — Java Application
-
-**Java • Object-Oriented Programming • Data Structures**
-
-A Java-based financial application concept focused on helping users work with **personal financial information, spending decisions, and basic financial planning logic**.
-
-### 🧠 Concepts Explored
-
-* Object-Oriented Programming
-* Java Collections
-* User input processing
-* Financial calculations
-* Rule-based decision logic
-* Structured data handling
-
----
-
-## 🤖 Machine Learning & Data Experiments
-
-**Python • NumPy • Pandas • Scikit-learn • OpenCV • Matplotlib**
-
-Hands-on exploration of machine learning and data-processing workflows through academic experiments, model implementation, data preprocessing, evaluation, and computer vision.
-
-### 🧪 Areas
-
-```text
-Data Cleaning
-Data Preprocessing
-Exploratory Data Analysis
-Data Visualization
-Feature Engineering
-SMOTE
-Logistic Regression
-Linear Regression
-Decision Trees
-Model Evaluation
-Artificial Neural Networks
-Perceptron
-Computer Vision
-OpenCV
-```
-
-### 🔬 Typical ML Workflow
-
-```text
-Dataset
-   ↓
-Data Cleaning
-   ↓
-Preprocessing
-   ↓
-Exploratory Data Analysis
-   ↓
-Feature Engineering
-   ↓
-Train / Test Split
-   ↓
-Model Training
-   ↓
-Evaluation
-   ↓
-Comparison
-```
-
----
 
 # 🧠 Computer Science Foundation
 
